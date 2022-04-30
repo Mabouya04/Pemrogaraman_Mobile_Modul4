@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tech Modul4</string>
+
+
+    <string name="nav_header_title">Ini Title</string>
+    <string name="nav_header_subtitle">Ini Subtitle</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="selamat_datang">Selamat Datang di Aplikasi Laptop</string>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_gallery">Galeri</string>
+
+    <!-- Text Description-->
+
+    <string name="desc_laptop1">
+        ASUS TUF Gaming FX505DY merupakan laptop gaming yang memiliki prosesor Intel Core i7-7700HQ dengan kecepatan tinggi.
+        Laptop ini memiliki layar 15.6 inch dengan ukuran layar yang lebih besar dari layar laptop lainnya.
+        Laptop ini memiliki RAM 8 GB dengan kecepatan tinggi.
+        Laptop ini memiliki hard disk 1 TB dengan kecepatan tinggi.
+        Laptop ini memiliki kamera klip digital dengan resolusi HD.
+        Laptop ini memiliki kamera depan dengan resolusi HD.
+    </string>
+    <string name="desc_laptop2">
+        ASUS ROG Zephyrus G14 GA401 merupakan laptop gaming yang memiliki prosesor Intel Core i7-7700HQ dengan kecepatan tinggi.
+        Laptop ini memiliki layar 15.6 inch dengan ukuran layar yang lebih besar dari layar laptop lainnya.
+        Laptop ini memiliki RAM 8 GB dengan kecepatan tinggi.
+        Laptop ini memiliki hard disk 1 TB dengan kecepatan tinggi.
+        Laptop ini memiliki kamera klip digital dengan resolusi HD.
+        Laptop ini memiliki kamera depan dengan resolusi HD.</string>
+
+    <string name="desc_laptop3">
+        ASUS TUF Gaming F15 merupakan laptop gaming yang memiliki prosesor Intel Core i7-7700HQ dengan kecepatan tinggi.
+        Laptop ini memiliki layar 15.6 inch dengan ukuran layar yang lebih besar dari layar laptop lainnya.
+        Laptop ini memiliki RAM 8 GB dengan kecepatan tinggi.
+        Laptop ini memiliki hard disk 1 TB dengan kecepatan tinggi.
+        Laptop ini memiliki kamera klip digital dengan resolusi HD.
+        Laptop ini memiliki kamera depan dengan resolusi HD.</string>
+
+    <string name="desc_laptop4">
+        MSI Modern 14 merupakan laptop gaming yang memiliki prosesor Intel Core i7-7700HQ dengan kecepatan tinggi.
+        Laptop ini memiliki layar 15.6 inch dengan ukuran layar yang lebih besar dari layar laptop lainnya.
+        Laptop ini memiliki RAM 8 GB dengan kecepatan tinggi.
+        Laptop ini memiliki hard disk 1 TB dengan kecepatan tinggi.
+        Laptop ini memiliki kamera klip digital dengan resolusi HD.
+        Laptop ini memiliki kamera depan dengan resolusi HD.</string>
+
+    <string name="desc_laptop5">
+        ASUS ROG Zephyrus Duo 15 SE merupakan laptop gaming yang memiliki prosesor Intel Core i7-7700HQ dengan kecepatan tinggi.
+        Laptop ini memiliki layar 15.6 inch dengan ukuran layar yang lebih besar dari layar laptop lainnya.
+        Laptop ini memiliki RAM 8 GB dengan kecepatan tinggi.
+        Laptop ini memiliki hard disk 1 TB dengan kecepatan tinggi.
+        Laptop ini memiliki kamera klip digital dengan resolusi HD.
+        Laptop ini memiliki kamera depan dengan resolusi HD.</string>
+
+    <string name="desc_laptop6">
+        ASUS ROG GL553VD merupakan laptop gaming yang memiliki prosesor Intel Core i7-7700HQ dengan kecepatan tinggi.
+        Laptop ini memiliki layar 15.6 inch dengan ukuran layar yang lebih besar dari layar laptop lainnya.
+        Laptop ini memiliki RAM 8 GB dengan kecepatan tinggi.
+        Laptop ini memiliki hard disk 1 TB dengan kecepatan tinggi.
+        Laptop ini memiliki kamera klip digital dengan resolusi HD.
+        Laptop ini memiliki kamera depan dengan resolusi HD.</string>
+
+    <string name="desc_laptop7">
+        Acer Predator Helios 300 merupakan laptop gaming yang memiliki prosesor Intel Core i7-7700HQ dengan kecepatan tinggi.
+        Laptop ini memiliki layar 15.6 inch dengan ukuran layar yang lebih besar dari layar laptop lainnya.
+        Laptop ini memiliki RAM 8 GB dengan kecepatan tinggi.
+        Laptop ini memiliki hard disk 1 TB dengan kecepatan tinggi.
+        Laptop ini memiliki kamera klip digital dengan resolusi HD.
+        Laptop ini memiliki kamera depan dengan resolusi HD.</string>
+
+    <string name="desc_laptop8">
+        MSI GL63 merupakan laptop gaming yang memiliki prosesor Intel Core i7-7700HQ dengan kecepatan tinggi.
+        Laptop ini memiliki layar 15.6 inch dengan ukuran layar yang lebih besar dari layar laptop lainnya.
+        Laptop ini memiliki RAM 8 GB dengan kecepatan tinggi.
+        Laptop ini memiliki hard disk 1 TB dengan kecepatan tinggi.
+        Laptop ini memiliki kamera klip digital dengan resolusi HD.
+        Laptop ini memiliki kamera depan dengan resolusi HD.</string>
+
+    <string name="desc_laptop9">
+        MSI GL63 merupakan laptop gaming yang memiliki prosesor Intel Core i7-7700HQ dengan kecepatan tinggi.
+        Laptop ini memiliki layar 15.6 inch dengan ukuran layar yang lebih besar dari layar laptop lainnya.
+        Laptop ini memiliki RAM 8 GB dengan kecepatan tinggi.
+        Laptop ini memiliki hard disk 1 TB dengan kecepatan tinggi.
+        Laptop ini memiliki kamera klip digital dengan resolusi HD.
+        Laptop ini memiliki kamera depan dengan resolusi HD.</string>
+
+    <string name="desc_laptop10">
+        MSI GL63 merupakan laptop gaming yang memiliki prosesor Intel Core i7-7700HQ dengan kecepatan tinggi.
+        Laptop ini memiliki layar 15.6 inch dengan ukuran layar yang lebih besar dari layar laptop lainnya.
+        Laptop ini memiliki RAM 8 GB dengan kecepatan tinggi.
+        Laptop ini memiliki hard disk 1 TB dengan kecepatan tinggi.
+        Laptop ini memiliki kamera klip digital dengan resolusi HD.
+        Laptop ini memiliki kamera depan dengan resolusi HD.</string>
+
+</resources>
