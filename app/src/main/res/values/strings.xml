@@ -11,7 +11,6 @@
     <string name="menu_home">Beranda</string>
     <string name="menu_gallery">Galeri</string>
 
-    <!-- Text Home-->
 
     <string name="laptop1" translatable="false">ASUS TUF Gaming FX505DY</string>
     <string name="laptop2" translatable="false">ASUS ROG Zephyrus G14 GA401</string>
@@ -24,7 +23,6 @@
     <string name="laptop9" translatable="false">Lenovo Legion 7I</string>
     <string name="laptop10" translatable="false">Lenovo Legion Y530</string>
 
-    <!-- Text Description-->
 
     <string name="desc_laptop1">
         ASUS TUF Gaming FX505DY merupakan laptop gaming yang memiliki prosesor Intel Core i7-7700HQ dengan kecepatan tinggi.

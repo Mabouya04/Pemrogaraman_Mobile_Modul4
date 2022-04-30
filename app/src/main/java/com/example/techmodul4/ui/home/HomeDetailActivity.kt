@@ -1,7 +1,6 @@
 package com.example.techmodul4.ui.home
 
 import android.os.Bundle
-import android.os.PersistableBundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.techmodul4.databinding.ActivityHomeDetailBinding
 
